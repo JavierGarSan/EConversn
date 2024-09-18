@@ -7,7 +7,7 @@ Allow faster transportation while hurting the environment less.
 Make bikes more accessible by crafting a more affordable one.
 
 # Missing
-Spur gear with 10 teeth
-Instructions
+Spur gear with 10 teeth.
+Instructions.
 
 
