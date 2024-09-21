@@ -8,6 +8,6 @@ Make bikes more accessible by crafting a more affordable one.
 
 # Missing
 Spur gear with 10 teeth.
-Instructions.
+
 
 
